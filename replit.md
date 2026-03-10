@@ -41,6 +41,10 @@ Stored in `.env`:
 - `VITE_FIREBASE_MESSAGING_SENDER_ID`
 - `VITE_FIREBASE_APP_ID`
 
+## Secrets
+Stored securely in Replit Secrets:
+- `ELEVENLABS_API_KEY` - For text-to-speech audio generation features
+
 ## Deployment
 - Target: Static site
 - Build command: `npm run build`
